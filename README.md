@@ -8,9 +8,7 @@
 
 ## Skills
 
-- C/C++, C#, Python, SQL, HTML/CSS
-- Flask, Java, JavaScript, Git, GDScript
-- MacOS/Windows/Linux, Microsoft Office
+- Ansible, Apex, AWS (EC2, Lambda, CloudFormation), Azure, Bash, C, C++, CI/CD (Jenkins, Github Actions), Docker, GCP, Golang, Java, JavaScript(Node.js, Express.js, React), Jira, Kubernetes, Kotlin, Linux, MongoDB, PostgreSQL, Python, RESTful APIs, Terraform
 
 ## Education
 
